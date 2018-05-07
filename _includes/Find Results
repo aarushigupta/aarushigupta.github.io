@@ -1,0 +1,38 @@
+Searching 11241 files for "Nathan Randecker" (whole word)
+
+/Users/aarushigupta/Documents/AarushiBlog/aarushigupta.github.io/LICENSE.txt:
+    1  The MIT License (MIT)
+    2  
+    3: Copyright (c) 2016 Nathan Randecker
+    4  
+    5  Permission is hereby granted, free of charge, to any person obtaining a copy
+
+/Users/aarushigupta/Documents/AarushiBlog/aarushigupta.github.io/package.json:
+    7      "test": "echo \"Error: no test specified\" && exit 1"
+    8    },
+    9:   "author": "Nathan Randecker",
+   10    "license": "ISC",
+   11    "dependencies": {
+
+/Users/aarushigupta/Documents/AarushiBlog/aarushigupta.github.io/_includes/footer.html:
+    1  <footer class="footer">
+    2      <p>&copy; {{site.username}}</p>
+    3:     <p>Build with Jekyll and <span class="love">❤</span> by <a href="https://github.com/nrandecker">Nathan Randecker</a></p>
+    4  </footer>
+    5  <script src="//cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+
+/Users/aarushigupta/Documents/AarushiBlog/aarushigupta.github.io/_site/index.html:
+  129        <footer class="footer">
+  130      <p>&copy; Aarushi Gupta</p>
+  131:     <p>Build with Jekyll and <span class="love">❤</span> by <a href="https://github.com/nrandecker">Nathan Randecker</a></p>
+  132  </footer>
+  133  <script src="//cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+
+/Users/aarushigupta/Documents/AarushiBlog/aarushigupta.github.io/_site/LICENSE.txt:
+    1  The MIT License (MIT)
+    2  
+    3: Copyright (c) 2016 Nathan Randecker
+    4  
+    5  Permission is hereby granted, free of charge, to any person obtaining a copy
+
+5 matches across 5 files
