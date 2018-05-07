@@ -6,7 +6,7 @@ require "jekyll"
 
 
 # Change your GitHub reponame
-GITHUB_REPONAME = "mavenhive/mavenhive.github.io"
+GITHUB_REPONAME = "aarushigupta/aarushigupta.github.io"
 
 
 desc "Generate blog files"
